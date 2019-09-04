@@ -1,0 +1,23 @@
+.LoginPage {
+    background-color: rgb(152, 230, 255);
+    background-image: url('/img/background.jpg');
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+.Label{
+    color: aliceblue
+}
+.alert{
+    left: 0;
+    margin: auto; 
+    position: absolute;
+    right: 40px;
+    top: 8em;
+    width: 20%;
+    z-index: 1;
+   
+}
